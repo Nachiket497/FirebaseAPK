@@ -32,6 +32,6 @@ while True :
     window.refresh()
 window.close()
 
-# window = sg.Window("Clipboard",layout=layout ,background_color="#000000",size=(500,600))  
+
 
 
